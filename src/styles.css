@@ -1,0 +1,20 @@
+/* Adicione seu CSS aqui para estilizar a tabela e outros componentes */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+input[type="text"] {
+  margin: 10px 0;
+  padding: 8px;
+}
